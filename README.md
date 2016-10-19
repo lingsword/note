@@ -1,3 +1,19 @@
-# My Awesome Book
+## 笔记：
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+* 学习中的知识点
+
+* 重要例子
+
+* 遇到的问题及解决方法
+
+* 一些想法思考
+
+
+
+学而不思则罔，思而不学则殆
+
+
+
+
