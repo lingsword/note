@@ -1,0 +1,15 @@
+{
+    "language": "zh-hans",
+    "variables": {
+        "title": "gitbook-help",
+        "theme": "theme-deepblue"
+    },
+    "plugins": [
+		"-highlight",
+		"-share",
+		"-search",
+        "expandable-chapters"
+    ],
+    "pluginsConfig": {
+    }
+}

@@ -1,0 +1,15 @@
+/* CSS for website */
+
+.center-align {
+    text-align: center;
+    text-decoration: none;
+}
+.page-inner {
+	width: 70%;
+}
+.gitbook-link {
+	font-size: .6em;
+}
+.book.font-size-2 .book-body .page-inner section {
+    font-size: 1.4rem;
+}
