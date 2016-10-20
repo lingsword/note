@@ -1,15 +1,31 @@
 {
     "language": "zh-hans",
     "variables": {
-        "title": "gitbook-help",
+        "title": "Java学习笔记",
         "theme": "theme-deepblue"
     },
+	"collapsible_menu":true,
+    "level_number":false,
     "plugins": [
 		"-highlight",
-		"-share",
+		"-sharing",
 		"-search",
-        "expandable-chapters"
+        "-expandable-chapters",
+		"-splitter"
     ],
     "pluginsConfig": {
+    },
+	    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 40,
+            "right": 40,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
     }
 }

@@ -31,7 +31,7 @@ pre[class*="language-"] {
 
 /* Code blocks */
 pre[class*="language-"] {
-	padding: 1em;
+	padding: 0.5em 0.0em 0.5em 1.5em;
 	margin: .5em 0;
 	overflow: auto;
 	border-radius: 0.3em;
@@ -43,10 +43,14 @@ pre[class*="language-"] {
 }
 
 /* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
+code{
+	background: #EEEEEE;
+	color: #346FF0;
+	font-size:1.1em;
+
+	padding: 0.3em;
+	margin: .5em 0;
+	border-radius: 0.3em;
 }
 
 .token.comment,
